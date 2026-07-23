@@ -95,6 +95,6 @@ Mobile-Sales-PowerBI-Dashboard
 
 **Parth K. Tiwari**
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/parth-k-tiwari-579b46293/
 
 GitHub: https://github.com/parthtiwari038

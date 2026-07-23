@@ -69,7 +69,7 @@ Mobile-Sales-PowerBI-Dashboard
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Sales Dashboard.png)
+![Dashboard](Sales%20Dashboard.png)
 
 ## 💡 Business Insights
 
